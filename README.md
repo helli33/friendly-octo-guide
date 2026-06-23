@@ -1,1 +1,1 @@
-# friendly-octo-guide
+# friendly-octo-guide.
